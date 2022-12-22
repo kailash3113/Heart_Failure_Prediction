@@ -1,1 +1,1 @@
-# Stock=Prediction
+# Stock-Prediction
